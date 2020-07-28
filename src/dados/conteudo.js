@@ -70,6 +70,16 @@ export default [
       'Carreira',
       'Programação',
       'Desenvolvimento',
-    ]
-  }
-];
+    ],
+  },
+  { nome: 'José Angel Medel',
+    foto: 'https://avatars2.githubusercontent.com/u/68920549?s=400&u=7989fb27985c00fccc021453ce864549724c7e90&v=4',
+    nomeDoProjeto: 'Cubanflix',
+    url: 'https://www.banderacubana.com',
+    tags: [
+      'front-end',
+      'back-end',
+      'data science',
+      ],
+  },
+  ];
